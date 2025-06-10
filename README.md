@@ -8,6 +8,7 @@
 
 
   **QuizMulado** é um aplicação mobile desenvolvida na Unity Engine utilizando **C#** como linguagem base, o objetivo do game consiste em responder perguntas no estilo *"Who Wants to Be a Millionaire"* de forma divertida e educativa.
+> **Notice**: Project files updated for Unity 6000.1.6f1 with the latest package versions.
   
   
 ### Funcionamento:
@@ -42,7 +43,7 @@ Foi utilizado o padrão de projeto **Singleton** no qual garante a existência d
 
 <img src="https://github.com/DoisLucas/QuizMulado-Unity-CSharp/blob/master/Imagens/gif3.gif" width="30%" height="30%"/>
 <img src="https://github.com/DoisLucas/QuizMulado-Unity-CSharp/blob/master/Imagens/gif2.gif" width="30%" height="30%"/>
-</p
+</p>
 
 
 
