@@ -1,4 +1,7 @@
 {
-	"dependencies": {
-	}
+  "dependencies": {
+    "com.unity.textmeshpro": "4.1.0",
+    "com.unity.inputsystem": "2.1.0",
+    "com.unity.timeline": "2.0.1"
+  }
 }
