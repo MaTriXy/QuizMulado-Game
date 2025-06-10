@@ -62,9 +62,9 @@ public class Partida : MonoBehaviour
 
     /*
      * 1 = A
-     * 1 = B
-     * 2 = C
-     * 3 = D
+     * 2 = B
+     * 3 = C
+     * 4 = D
     */
 
     int press_button = 0;
