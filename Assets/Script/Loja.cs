@@ -347,7 +347,7 @@ public class Loja : MonoBehaviour
          * 24 Poder Vida
         */
 
-        int randomIndex = Random.Range(0, 24);
+        int randomIndex = Random.Range(0, 25);
         print(randomIndex);
 
         if (randomIndex >= 0 && randomIndex <= 10)
