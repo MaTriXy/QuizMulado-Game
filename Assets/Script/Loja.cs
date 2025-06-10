@@ -343,7 +343,7 @@ public class Loja : MonoBehaviour
         /*
          *0-10 Poder pulo
          * 11-20 Poder Chance
-         * 21-23 Poder Estatostoca
+         * 21-23 Poder Estatística
          * 24 Poder Vida
         */
 
